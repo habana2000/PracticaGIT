@@ -1,6 +1,6 @@
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
---> git commit --hard HEAD~1
+--> git reset --hard HEAD~1
 
 --> Porque deshace el commit eliminando también los cambios de la working copy
 
